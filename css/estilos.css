@@ -279,7 +279,7 @@ section h3{
 }
 
 /*Estos son los media quiery de boots para que no se nos salga el texto*/
-@media (max-width: 575.98px) {
+//*@media (max-width: 575.98px) {
 
     h1 {font-size 50px; line-height: normal;}
 
@@ -294,4 +294,4 @@ section h3{
 @media (min-width: 992px) and (max-width: 1199.98px) { ... }
 
 
-@media (min-width: 1200px) { ... }
+@media (min-width: 1200px) { ... }*/
